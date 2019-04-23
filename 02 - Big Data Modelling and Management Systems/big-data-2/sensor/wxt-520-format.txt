@@ -1,0 +1,22 @@
+Sn      Wind speed minimum m/s, km/h, mph, knots #,M, K, S, N
+Sm      Wind speed average m/s, km/h, mph, knots #,M, K, S, N
+Sx      Wind speed maximum m/s, km/h, mph, knots #,M, K, S, N
+Dn      Wind direction minimum deg #, D
+Dm      Wind direction average deg #, D
+Dx      Wind direction maximum deg #, D
+Pa      Air pressure hPa, Pa, bar, mmHg, inHg #, H, P, B, M, I
+Ta      Air temperature °C, °F #, C, F
+Tp      Internal temperature °C, °F #, C, F
+Ua      Relative humidity %RH #, P
+Rc      Rain accumulation mm, in #, M, I
+Rd      Rain duration s #, S
+Ri      Rain intensity mm/h, in/h #, M, I
+Rp      Rain peak intensity mm/h, in/h #, M, I
+Hc      Hail accumulation hits/cm2, hits/in2, hits #, M, I, H
+Hd      Hail duration s #, S
+Hi      Hail intensity hits/cm2h, hits/in2h, hits/ h #, M, I, H
+Hp      Hail peak intensity hits/cm2h, hits/in2h, hits/ h #, M, I, H
+Th      Heating temperature °C, °F #, C, F
+Vh      Heating voltage V #, N, V, W, F2
+Vs      Supply voltage V V
+Vr      3.5 V ref. voltage V V
