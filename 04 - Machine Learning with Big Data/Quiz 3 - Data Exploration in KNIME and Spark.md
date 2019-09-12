@@ -23,9 +23,9 @@
 
 ### 4. If the histogram for air temperature at 9am has 50 bins, what is the number of elements in the bin with the most elements (without removing or imputing missing values)?
 
-- 57
+- **57**
 - 224
-- **49**
+- 49
 - 166
 
 ### 5. What is the approximate maximum max_wind_direction_9am when the maximum max_wind_speed_9am occurs?
