@@ -2,7 +2,7 @@
 
 ### 1. Which of the following is a Cypher command used to combine two or more query results?
 
-- union
+- **union**
 - combine
 - merge
 - return
@@ -15,12 +15,12 @@ match (n:MyNode)<-[r]-() return n
 
 - All nodes and edges except leaf nodes and their edges.
 - The entire network, all nodes and edges
-- All nodes except root nodes.
+- **All nodes except root nodes.**
 - Edges but no nodes.
 
 ### 3. The Cypher query language shares some commands in common with SQL.
 
-- True
+- **True**
 - False
 
 ### 4. The following query will return a graph containing whatever loops might exist.
@@ -29,35 +29,35 @@ match (n:MyNode)<-[r]-() return n
 match (n)-[r]-(n) return n, r
 ```
 
-- True
+- **True**
 - False
 
 ### 5. Which Cypher pattern is used to represent a node?
 
-- ()
+- **()**
 - []
 - {}
 - <>
 
 ### 6. QNeo4j is a ...
 
-- Graph database
+- **Graph database**
 - Relational database
 - None of the above
 
 ### 7. Which Cypher command launches a Neo4j database search?
 
-- MATCH
+- **MATCH**
 - RETURN
 - CREATE
 - None of the above
 
 ### 8.Cypher does not include a specific command to find the shortest path in a graph network.
 
-- False
+- **False**
 - True
 
 ### 9. Cypher includes a 'diameter' command to find the longest path in a graph network.
 
-- False
+- **False**
 - True
