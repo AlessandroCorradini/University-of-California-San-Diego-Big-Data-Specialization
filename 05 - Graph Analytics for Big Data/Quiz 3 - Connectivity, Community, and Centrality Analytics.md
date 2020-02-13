@@ -95,7 +95,7 @@ How tightly knit was the 2014 World Cup twitter community on July 13, 2014 (the 
 
 ![](img/Q12.png)
 
-- 1
+- **1**
 - 2
 - 3
 - 4
@@ -109,7 +109,7 @@ How tightly knit was the 2014 World Cup twitter community on July 13, 2014 (the 
 
 ### 14. Which of the following community tracking phases usually occurs when a company spins off a start-up?
 
-- Split
+- **Split**
 - Birth
 - Death
 - Grow
