@@ -14,7 +14,7 @@
 
 - **NoSQL Storage**
 - **Remote Data**
-- **T**raditional Databases**
+- **Traditional Databases**
 - Web Services
 - **Text Files**
 
@@ -78,4 +78,4 @@ Data exploration... <complete the sentence>
 - Select Analytical Techniques
 - Build Models
 - Identify Data Sets and Query Data
-- **Cleaning, Integrating, and Packaging**
+- **Understanding Nature of Data and Preliminary Analysis**
