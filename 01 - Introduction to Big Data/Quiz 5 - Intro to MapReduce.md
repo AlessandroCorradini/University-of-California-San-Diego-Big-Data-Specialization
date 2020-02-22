@@ -49,7 +49,7 @@
 - Giraph, for SQL-like queries.
 - Pig, for real-time and in-memory processing of big data.
 - Zookeeper, analyze social graphs.
-- **Giraph, for processing large-scale graphs.**
+- **Zookeeper, management system for animal named related components**
 
 ### 9. What is the difference between low level interfaces and high level interfaces?
 

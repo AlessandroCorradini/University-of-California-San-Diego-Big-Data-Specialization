@@ -19,7 +19,7 @@
 
 - Distributed Computing
 - System Wide Restart
-- **Redundant Data Storage**
+- **Data Parallel Job Restart**
 - Better LAN Connection
 
 ### 4. What are the specific benefit(s) to a distributed file system?
