@@ -11,7 +11,7 @@
 - Fixed schema of a particular database.
 - A tuple that cannot be reduced.
 - A column or row of data. Depends on the context.
-- **One unit of information that cannot be decomposed.**
+- One unit of information that cannot be decomposed.
 
 ### 3. What is the Pareto-Optimality problem?
 
@@ -46,8 +46,8 @@ Suppose we collect data month by month. Each month, we would have a batch of dat
 
 - Join
 - Not an Operation
-- Subsetting
-- **Union**
+- **Subsetting**
+- Union
 
 ### 8. From the information given in question 7, what are the constraints, if any, which we have placed on the Account Number field for the end of year collection?
 
