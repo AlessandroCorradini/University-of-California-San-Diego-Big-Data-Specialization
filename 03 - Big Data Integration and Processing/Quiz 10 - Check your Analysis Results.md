@@ -2,7 +2,7 @@
 
 ### 1. How many different countries are mentioned in at least one tweet?
 
-- 44
+- **44
 - 112
 - 211
 - 64
@@ -11,12 +11,12 @@
 
 - 52
 - 211
-- 397
+- **397
 - 26634
 
 ### 3. What are the three countries with the highest mentioned count
 
-- Nigeria, Slovakia, Germany
+- **Nigeria, Slovakia, Germany
 - Thailand, Iceland, Mexico
 - Norway, Nigeria, France
 - Thailand, Mexico, Denmark
@@ -25,18 +25,18 @@
 
 - 25
 - 8
-- 42
+- **42
 - 30
 
 ### 5. Which country was mentioned most: Kenya, Wales, or Netherlands?
 
 - Netherlands
-- Wales
+- **Wales
 - Kenya
 
 ### 6. What is the average number of times a country is mentioned? (Round to the nearest integer)
 
 - 44
 - 15
-- 9
+- **9
 - 3
