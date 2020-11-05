@@ -66,7 +66,7 @@
 
 ### 10. In association analysis, an item set is
 
-- A transaction or set of items that occur together
+- **A transaction or set of items that occur together**
 - A set of transactions that occur a certain number of times in the data
 - A set of items that two rules have in common
 - A set of items that infrequently occur together
