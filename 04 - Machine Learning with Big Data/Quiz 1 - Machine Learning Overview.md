@@ -44,7 +44,7 @@
 
 ### 7. Phase 2 of CRISP-DM is Data Understanding. In this phase,
 
-- we acquire as well as explore the data that is related to the problem.
+- **we acquire as well as explore the data that is related to the problem.**
 - we define the problem or opportunity to be addressed.
 - we prepare the data for analysis.
 
