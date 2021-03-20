@@ -7,12 +7,12 @@
 
 #### 2. Which of the following is the correct adjacency matrix for this graph?
 
-![](img/adj2.png)
+![](img/Adj2.png)
 
 <br/>
 
-- ![](img/adj1.png) [X]
-- ![](img/adj3.png)
+- ![](img/Adj1.png) [X]
+- ![](img/Adj3.png)
 - Neither option is correct.
 
 #### 3. Which of the following content would be objects (or nodes) in a graph that represents the activity in a facebook page?
