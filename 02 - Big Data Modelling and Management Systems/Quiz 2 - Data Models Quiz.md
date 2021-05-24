@@ -11,7 +11,7 @@
 - Fixed schema of a particular database.
 - A tuple that cannot be reduced.
 - A column or row of data. Depends on the context.
-- One unit of information that cannot be decomposed.
+- **One unit of information that cannot be decomposed.**
 
 ### 3. What is the Pareto-Optimality problem?
 
