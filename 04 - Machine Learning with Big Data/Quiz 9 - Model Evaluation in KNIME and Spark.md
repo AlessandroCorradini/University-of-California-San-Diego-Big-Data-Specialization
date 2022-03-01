@@ -34,7 +34,7 @@
 ### 6. Spark: To get the error rate for the decision tree model, use the following code:
 
 ```
-print ("Error = %g " % (1.0 - accuracy)) [X]
+**print("Error = %g "% (1.0 - accuracy))[X]**
 ```
 ```
 evaluator = MuticlassClassificationEvaluator(
@@ -48,7 +48,7 @@ error = evaluator.evaluate(1 - predictions)
 
 ### 7. Spark: To print out the accuracy as a percentage, use the following code:
 ```
-print ("Accuracy = %.2g" % (accuracy * 100)) [X]
+**print ("Accuracy = %.2g" % (accuracy * 100)) [X]**
 ```
 ```
 print ("Accuracy = %100g" % (accuracy))
@@ -60,8 +60,8 @@ print ("Accuracy = %100.2g" % (accuracy))
 ### 8. Spark: In the last line of code in Step 4, the confusion matrix is printed out. If the “transpose()” is removed, the confusion matrix will be displayed as:
 
 ```
-array([[87., 14.],  [X]
-       [26., 83.]])
+**array([[87., 14.],  [X]
+       [26., 83.]])**
 ```
 ```
 array([[83., 26.],
